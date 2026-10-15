@@ -71,11 +71,10 @@ The notebook strictly follows the standard analytical sequence:
 
 ```
 ├── Healthcare Analytics for Doctor Visits.ipynb  # Primary Jupyter Notebook with analysis & outputs
-├── Healthcare_Analytics_Analysis.py              # Script reproducing plots and statistical tests
 ├── 1776250375-P2-Healthcare Analytics for Doctor Visits.csv # Raw Dataset
-├── Plots/                                        # Generated high-resolution visualization figures
+├── 1776250340-1776165716-1730262489-1729507042-DIY Project ppt template - Copy.pptx # Project Presentation Template
 ├── README.md                                     # Project documentation
-└── .gitignore                                    # Git ignore configuration
+└── .gitignore                                    # Git configuration
 ```
 
 ---
